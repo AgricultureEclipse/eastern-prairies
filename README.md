@@ -1,9 +1,25 @@
 # Eastern Prairies
 
-## Setup
+# What Does This Mod Add?
+This mod adds native Illinois flora, including:
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+### Flowers & Herbs
+* **Coneflower** (*Echinacea purpurea*)
+* **Black-Eyed Susan** (*Rudbeckia hirta*)
+* **Milkweed** (*Asclepias incarnata*)
+* **Bergamot** (*Monarda fistulosa*)
+* **Violet** (*Viola sororia*)
 
-## License
+### Trees & Shrubs
+* **Hackberry** (*Celtis occidentalis*)
+* **Redbud** (*Cercis canadensis*)
+* **Serviceberry** (*Amelanchier arborea*)
+* **Ninebark** (*Physocarpus opulifolius*)
+* **Elderberry** (*Sambucus canadensis*)
+* **Tea** (*Ceanothus americanus*)
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+...and so much more!
+
+*Image by [MMO Tracking](https://commons.wikimedia.org/wiki/File:Black-eyed_susans_at_Bartram%27s_Garden.jpg) | Licensed under [CC BY-SA 4.0](https://creativecommons.org)*
+
+![Black-eyed Susans at Bartram's Garden](https://cdn.modrinth.com/data/cached_images/a20c35cc56214bd7126d8bb1dc6de7482c0dca0f.png)
